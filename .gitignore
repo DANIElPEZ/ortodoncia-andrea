@@ -4,3 +4,4 @@ eslint.config.js
 *.xlsx
 .env
 tsconfig*.json
+/logo desing
