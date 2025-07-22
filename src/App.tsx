@@ -29,7 +29,7 @@ export default function App() {
             <Model />
             <CameraControls />
           </Canvas>
-          <span className="font-[var(--font)] text-black text-shadow-2xs text-shadow-white text-[1.4rem] text-balance text-center">
+          <span className="font-[var(--font)] text-shadow-md text-white text-lg text-balance text-center bg-black/23 rounded-xl px-4 py-2  ">
              Faltan {days} días, {hours} horas, {minutes} minutos, {seconds} segundos
           </span>
         </div>
